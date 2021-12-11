@@ -4,16 +4,22 @@
 
 ## main color scheme
 
+### color codes
+
 This theme uses several base colors to get a nice green look. The main color is called _june bud_. Following colors are used:
 
-| Name                  | hex code   |
-|-----------------------|------------|
-| june bud darker       | `#6c7b39`  |
-| june bud dark         | `#90a44c`  |
-| june bud              | `#b5cd60`  |
-| june bud light        | `#c3d77f`  |
-| june bud lighter      | `#d2e19f`  |
-| june bud very light   | `#e1ebbf`  |
+| Name                          | hex code   |
+|-------------------------------|------------|
+| sap green                     | `#6c7b39`  |
+| moss green                    | `#90a44c`  |
+| june bud                      | `#b5cd60`  |
+| yellow green crayloa          | `#c3d77f`  |
+| yellow green crayloa light    | `#d2e19f`  |
+| pale spring bud               | `#e1ebbf`  |
+
+### screenshot
+
+![moderate-green](res/moderate-green.png)
 
 ## additional colors
 
