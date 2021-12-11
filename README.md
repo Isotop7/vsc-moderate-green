@@ -1,4 +1,4 @@
-# vsc-moderate-greem
+# vsc-moderate-green
 
 **NOTICE:** This is still work in progress and may look like the standard dark color scheme.
 
