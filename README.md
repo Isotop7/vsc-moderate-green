@@ -23,9 +23,11 @@ This theme uses several base colors to get a nice green look. The main color is 
 
 | Name              | hex code   |
 |-------------------|------------|
-| eerie black       | `#171717`  |
-| eerie black light | `#242424`  |
-| gray 90 /platinum | `#e5e5e5`  |
+| Eerie Black       | `#171717`  |
+| Eerie Black Light | `#242424`  |
+| Davys Grey        | `#474747`  |
+| Spanish Gray      | `#919191`  |
+| Platinum          | `#e5e5e5`  |
 
 ![Dark](res/dark.png)
 
